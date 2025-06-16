@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack Developer & AI Enthusiast
 
-I'm passionate about building innovative solutions that bridge the gap between technology and real-world problems. With expertise in Python, JavaScript, and emerging technologies, I focus on creating impactful applications.
+I'm passionate about building innovative solutions that bridge the gap between technology and real-world problems. With expertise in C++,JavaScript, and emerging technologies, I focus on creating impactful applications.
 
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

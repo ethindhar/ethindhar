@@ -50,17 +50,18 @@ I'm passionate about building innovative solutions that bridge the gap between t
 ### 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethindhar&layout=compact&theme=radical)
 
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=ethindhar&color=brightgreen&style=flat-square)
+
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-ethindhar-805203255/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethindharhariprasath@gmail.com)
-
 
 ### 💡 Fun Facts
 - 🎯 Passionate about **sustainable technology** solutions
 - 🌱 Always learning new technologies and frameworks
 - 🚀 Love turning complex problems into simple, beautiful solutions
+
 ---
 
-⭐ **Feel free to star my repositories if you find them useful!**
-
- 
+⭐ **Feel free to star my repositories if you find them useful!** 
